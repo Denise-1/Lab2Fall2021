@@ -4,6 +4,7 @@ package Lab2.Print;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Johan");
         int monthNumber;
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number between 1 to 12.");
