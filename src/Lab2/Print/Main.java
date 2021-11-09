@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Johan");
         System.out.println("IS147 Fall 2021");
+        System.out.println("Denise Chen");
+
         int monthNumber;
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number between 1 to 12.");
